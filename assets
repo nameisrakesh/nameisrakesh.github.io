@@ -1,0 +1,3 @@
+cd nameisrakesh.github.io
+git add ./assets/photo.jpg
+git commit -m "Added photo.jpg file"
